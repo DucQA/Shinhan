@@ -1,6 +1,6 @@
 # Fund Transfer Feature Testing
 
-This project is designed to test the fund transfer functionality of the SOL Vietnam app. It uses Gherkin syntax to define behavior-driven development (BDD) test scenarios for error handling and insufficient balance cases during fund transfers.
+This project is designed to test the fund transfer functionality of the Shinhan SOL Vietnam app. It uses Gherkin syntax to define behavior-driven development (BDD) test scenarios for error handling and insufficient balance cases during fund transfers.
 
 Click the image below to watch a demo of the project in action:
 
