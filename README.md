@@ -4,7 +4,7 @@ This project is designed to test the fund transfer functionality of the Shinhan 
 
 Click the image below to watch a demo of the project in action:
 
-[![Watch the demo](assets/demo.gif)](https://www.youtube.com/watch?v=UoQZukVsrRk)
+[![Watch the demo](assets/demo.gif)](https://www.youtube.com/watch?v=FGrSTT0Lt7I)
 
 ## Project Structure
 
